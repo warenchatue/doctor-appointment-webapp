@@ -54,7 +54,7 @@ function MyBooking() {
                 expired={true}
                 />
             </TabsContent>
-            </Tabs>
+        </Tabs>
 
     </div>
   )

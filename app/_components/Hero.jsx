@@ -10,7 +10,7 @@ function Hero() {
       <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
         <Image
           alt=""
-          src="/doctors.jpg"
+          src="/doctors_anime.jpeg"
           width={800}
           height={800}
           className="absolute inset-0 h-full
