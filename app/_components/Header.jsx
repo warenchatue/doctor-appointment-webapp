@@ -22,7 +22,7 @@ function Header() {
         {
             id:2,
             name:'Explore',
-            path:'/explore'
+            path:'/'
         },
         {
             id:3,
